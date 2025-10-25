@@ -23,19 +23,26 @@ Play the game live on GitHub Pages:
 
 ## 🎮 How to Play
 
-### Player vs CPU
-1. Select **Play vs CPU** mode.  
-2. Choose your move: ✊ Rock, ✋ Paper, or ✌️ Scissors.  
-3. The CPU randomly picks a move.  
-4. The winner of the round is displayed and scores are updated.  
-5. Play until the selected “Best of X” rounds are completed.
+**Player vs CPU**  
+1. Select Play vs CPU mode  
+2. Choose your move: ✊ Rock, ✋ Paper, or ✌️ Scissors  
+3. The CPU randomly picks a move  
+4. Winner of the round is displayed and scores updated  
+5. Play until the selected “Best of X” rounds are completed  
 
-### Player vs Friend
-1. Select **Play vs Friend** mode.  
-2. Player 1 chooses a move.  
-3. Player 2 chooses a move.  
-4. The winner of the round is displayed and scores are updated.  
-5. Play until the selected “Best of X” rounds are completed.
+**Player vs Friend**  
+1. Select Play vs Friend mode  
+2. Player 1 chooses a move  
+3. Player 2 chooses a move  
+4. Winner of the round is displayed and scores updated  
+5. Play until the selected “Best of X” rounds are completed  
+
+---
+
+## 📸 Screenshots
+![Main Menu](screenshots/main-menu.png)  
+![Gameplay vs CPU](screenshots/gameplay-cpu.png)  
+![Gameplay vs Friend](screenshots/gameplay-friend.png)  
 
 ---
 
